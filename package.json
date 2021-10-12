@@ -21,7 +21,7 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "css-loader": "^3.3.0",
-    "electron": "^7.1.4",
+    "electron": "^11.5.0",
     "node-sass": "^4.13.0",
     "sass-loader": "^8.0.0"
   },
